@@ -1,5 +1,1 @@
-Copyright AsenicPull
-
-Bippender
-
 
